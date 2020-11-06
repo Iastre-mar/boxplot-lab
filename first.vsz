@@ -1,0 +1,125 @@
+# Veusz saved document (version 3.2.1)
+# Saved at 2020-08-26T18:00:39.662916
+
+AddImportPath(u'/home/iastre/Документы/Пцр')
+ImportFileCSV(u'13-05-2020 cervix - Rel Quant.txt', delimiter=u'\t', headermode=u'1st', linked=True, numericlocale=u'ru_RU', textdelimiter=u"'")
+SetDataText(u'Cq', [
+    u'13.59',
+    u'11.63',
+    u'14.08',
+    u'16.21',
+    u'19.56',
+    u'29.12',
+    u'12.81',
+    u'13.07',
+    u'18.44',
+    u'12.65',
+    u'13.66',
+    u'11.63',
+    u'14.17',
+    u'16.23',
+    u'19.11',
+    u'28.92',
+    u'12.51',
+    u'12.88',
+    u'18.43',
+    u'12.42',
+    u'27.68',
+    u'25.94',
+    u'29.00',
+    u'28.37',
+    u'-',
+    u'24.01',
+    u'32.82',
+    u'27.37',
+    u'25.13',
+    u'29.24',
+    u'28.65',
+    u'-',
+    u'23.95',
+    u'33.12',
+    u'27.54',
+    u'25.44',
+    u'29.39',
+    u'28.30',
+    u'-',
+    u'23.99',
+    u'32.63',
+    u'25.57',
+    u'27.64',
+    u'24.71',
+    u'29.47',
+    u'-',
+    u'22.81',
+    u'25.07',
+    u'22.19',
+    u'25.56',
+    u'27.76',
+    u'24.85',
+    u'29.36',
+    u'-',
+    u'22.56',
+    u'25.01',
+    u'22.38',
+    u'25.51',
+    u'27.92',
+    u'25.00',
+    u'29.67',
+    u'-',
+    u'22.67',
+    u'25.00',
+    u'22.25',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+    u'-',
+])
+ImportString(u'`new dataset`(numeric)','''
+0.000000e+00
+''')
+Set('colorTheme', u'default-latest')
+Set('StyleSheet/axis-function/autoRange', u'next-tick')
+Add('page', name=u'page1', autoadd=False)
+To(u'page1')
+Add('graph', name=u'graph1', autoadd=False)
+To(u'graph1')
+Add('axis', name=u'x', autoadd=False)
+Add('axis', name=u'y', autoadd=False)
+To(u'y')
+Set('direction', u'vertical')
+To('..')
+Add('boxplot', name=u'boxplot1', autoadd=False)
+To(u'boxplot1')
+Set('posn', [])
+Set('labels', u'')
+Set('whiskermode', u'1.5IQR')
+To('..')
+To('..')
+To('..')
